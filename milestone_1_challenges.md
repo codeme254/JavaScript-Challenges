@@ -79,8 +79,8 @@ findPerimeter(20, 10); // 60
 Write a function called `isNegative` that takes a number as it's only argument, the function should return true if the passed number is a negative number and false if the passed number is not a negative number.
 
 ```js
-checkNegative(-23); // true
-checkNegative(55); // false
+isNegative(-23); // true
+isNegative(55); // false
 ```
 
 ## 5. Can I Drive
